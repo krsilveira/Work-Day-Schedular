@@ -35,5 +35,5 @@ THEN the saved events persist
 
 ## Review 
 
-* The URL of the deployed application ()
-* The URL of the GitHub repository ()
+* The URL of the deployed application (https://krsilveira.github.io/Challenge-5-/)
+* The URL of the GitHub repository (https://github.com/krsilveira/Challenge-5-)
