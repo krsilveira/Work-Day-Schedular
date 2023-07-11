@@ -1,4 +1,4 @@
-# Challenge-5-
+# Work Day Schedular
 
 ## Description
 This application was created for the purpose to serve as a simple calendar that allows a user to save events for each hour of a typical working day (9am-5pm). This application demomstrates my knowledge of Javascript and 3rd party APIs to create a work day activity planner that saves user entries to localStorage. Highlighted proficiencis throughout working on this site:
